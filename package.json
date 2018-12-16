@@ -1,0 +1,17 @@
+{
+  "name": "bases-de-node",
+  "version": "1.0.0",
+  "description": "Esta es una aplicación de línea de comandos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johnny Rosero",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.8"
+  }
+}
